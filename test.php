@@ -101,7 +101,7 @@ $datetime2 = new DateTime('2009-10-13 13:00:00');
 $interval = $datetime1->diff($datetime2);
 echo $interval->days.' days total<br>';
 echo $interval->days.' days total<br>';
-echo $interval->y.' yearsфіdfgsdfgвавіа<br>';
+echo $interval->y.' yearsфіdfgsdfgzsdfsвавіа<br>';
 echo $interval->y.' yearsфівавіа<br>';
 echo $interval->d.' days<br>';
 echo $interval->h.' hourdfasdfs<br>';
