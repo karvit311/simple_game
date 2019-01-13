@@ -26,7 +26,11 @@
         <entry file="file://$PROJECT_DIR$/application/views/index1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
+<<<<<<< HEAD
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+=======
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+>>>>>>> 5be0f211229ed724ab8d040985599896c191f4ee
             </state>
           </provider>
         </entry>
@@ -319,7 +323,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="37219000" />
+=======
+    <option name="totallyTimeSpent" value="36724000" />
+>>>>>>> 5be0f211229ed724ab8d040985599896c191f4ee
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="297" width="1805" height="861" extended-state="0" />
@@ -395,7 +403,11 @@
     <entry file="file://$PROJECT_DIR$/application/views/index1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
+<<<<<<< HEAD
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+=======
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+>>>>>>> 5be0f211229ed724ab8d040985599896c191f4ee
         </state>
       </provider>
     </entry>
