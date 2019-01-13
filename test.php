@@ -89,6 +89,7 @@ $otherCurrency = new FileCurrency('EUR', 'UAH',ROOT . '/application/file.php');
 $otherCurrency->render();
 
 sleep(6);
+sleep(2);
 
 $lastCurrency = new BaseCurrency('EUR', 'UAH');
 $lastCurrency->render();
@@ -99,12 +100,12 @@ $date1 = date_format($datetime1, 'Y-m-d H:i:s');
 $datetime2 = new DateTime('2009-10-13 13:00:00');
 $interval = $datetime1->diff($datetime2);
 echo $interval->days.' days total<br>';
-echo $interval->y.' years<br>';
-echo $interval->m.' months<br>';
+echo $interval->days.' days total<br>';
+echo $interval->y.' yearsфівавіа<br>';
+echo $interval->y.' yearsфівавіа<br>';
 echo $interval->d.' days<br>';
-echo $interval->h.' hours<br>';
-echo $interval->i.' minutes<br>';
+echo $interval->h.' hourdfasdfs<br>';
+echo $interval->i.' minsdfsdfutes<br>';
 echo $interval->s.' seconds<br>';
 echo 'dif= '.$interval->days.' days '.$interval->h.' hours '.$interval->i.' minutes '.$interval->s.' seconds <br>';
-// echo date_format($interval, ' Y-m-d G:ia');
-echo $interval->format('%R%a дней G%:%i%a%');
+echo 'all is the bestt!';
